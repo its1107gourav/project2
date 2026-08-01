@@ -1,3 +1,2 @@
 # readme for project 2
-
-this is our some content 
+this project is created on local system ,created by gourav patidar.
